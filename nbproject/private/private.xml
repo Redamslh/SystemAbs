@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionFiliere.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionMatiere.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Absence.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionUtilisateur.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionDepartement.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionFiliere2.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionGroupe.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/FilereService.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Etudiant2.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionAbsence.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/EtudiantService.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Groupe.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/UserService.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/ProfesseurService.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/EmploiProf.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Utulisateur.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/AbsenceService.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/etdController.php</file>
+            <file>file:/C:/wamp64/www/Ab/index.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/UtilisateurService.php</file>
+            <file>file:/C:/wamp64/www/Ab/connexion/connexion.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionFiliere_1.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/checkPassword.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/gestionEtudiant.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/GroupeService.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Professeur.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/EtudiantService2.php</file>
+            <file>file:/C:/wamp64/www/Ab/dao/IDao.php</file>
+            <file>file:/C:/wamp64/www/Ab/connexion/Connexion1.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Filiere2.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Utilisateur.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Etudiant.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/FilereService_1.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Matiere.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/DepartementService.php</file>
+            <file>file:/C:/wamp64/www/Ab/assets/css/material-dashboard.css</file>
+            <file>file:/C:/wamp64/www/Ab/service/MatiereService.php</file>
+            <file>file:/C:/wamp64/www/Ab/beans/Filiere.php</file>
+            <file>file:/C:/wamp64/www/Ab/controller/EtdiantController.php</file>
+            <file>file:/C:/wamp64/www/Ab/service/FilereService2.php</file>
+        </group>
+    </open-files>
+</project-private>
