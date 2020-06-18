@@ -5,6 +5,7 @@ include_once 'service/FilereService.php';
 extract($_POST);
 
 $ds = new FilereService();
+$conf = true;
 if (isset($op) && $op != '') {
     if ($op == 'add') {
         $ds->create(new Filiere($idfiliere, $nomfiliere,$abreviation));
@@ -101,7 +102,7 @@ echo json_encode($ds->getLib($us,$us1,$us2));
         header('Content-type: application/json');
 echo json_encode($ds->getMatF($us));
     }
-}else{
+}if ($conf == true) {
     header('Content-type: application/json');
-echo json_encode($ds->findAll());
+    echo json_encode($ds->findAll());
 }
