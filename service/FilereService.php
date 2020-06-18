@@ -12,7 +12,7 @@
  * @author achraf bouirik
  */
 include_once "beans/Filiere.php";
-include_once "connexion/Connexion.php";
+include_once "connexion/Connexion1.php";
 include_once "dao/IDao.php";
 class FilereService implements IDao{
    private $connexion;
