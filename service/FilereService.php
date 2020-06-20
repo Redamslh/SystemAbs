@@ -146,8 +146,6 @@ SELECT * from module" ;
     }
      public function getMost() {
         $query = "
-
-
 select CNE,etudiant.nom,etudiant.prenom,count(*) as nb from absence,etudiant where absence.CNE=etudiant.idetudiant GROUP by cne order by nb DESC LIMIT 5 " ;
          $req = $this->connexion->getConnexion()->query($query);
         $f = $req->fetchAll(PDO::FETCH_OBJ);
